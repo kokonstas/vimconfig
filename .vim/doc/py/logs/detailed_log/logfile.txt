@@ -1,0 +1,66 @@
+20130512|1858|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Alt_L]mm[KeyName:Control_L]ccc[KeyName:Return][KeyName:Control_L]ccc[KeyName:Shift_R]:Q[KeyName:Return]q[KeyName:Return][KeyName:Control_L][KeyName:Alt_L]t
+20130512|1858|gnome-terminal|0x04402af9|kosta|kosta@finn: ~|pkill p[KeyName:BackSpace]k[KeyName:Tab][KeyName:Tab]e[KeyName:Tab][KeyName:BackSpace][KeyName:BackSpace]p
+20130512|1859|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Control_R][KeyName:Control_R][KeyName:F12]
+20130512|1859||0x00c17361|kosta||[KeyName:Return]
+20130512|1859|140379999735752|0x05a0044e|kosta|General Settings|heaghost
+20130512|1900|140379999735752|0x05a0044e|kosta|General Settings|[KeyName:Shift_R]Alt[KeyName:BackSpace]t[KeyName:Shift_R]_L[KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:Shift_R]<[KeyName:BackSpace][KeyName:Shift_R]M
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L]c[KeyName:Return][KeyName:Control_L]c[KeyName:Shift_R][KeyName:Return][KeyName:Control_L][KeyName:Alt_L]mm[KeyName:Control_L][KeyName:Alt_L][KeyName:Control_R][KeyName:F12]
+20130512|1900|140379999554592|0x05a0044e|kosta|Enter Password|heahgost
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Return]
+20130512|1900||0x00c1785e|kosta||[KeyName:Return]
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Alt_L][KeyName:Control_R][KeyName:F12]
+20130512|1900||0x00c178d7|kosta||[KeyName:Return]
+20130512|1900||0x00c17912|kosta||[KeyName:Return]
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Control_R][KeyName:F12]
+20130512|1900||0x00c17938|kosta||[KeyName:Return]
+20130512|1900|__tk__messagebox|0x05a00076|kosta|Incorrect Password|\
+20130512|1900||0x00c17988|kosta||[KeyName:Return]
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L]m
+20130512|1900||0x00c17a9a|kosta||[KeyName:Return]
+20130512|1900|||kosta||[KeyName:Return]
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Alt_L]m
+20130512|1900|140690310971192|0x05a0003e|kosta|Enter Password|ehaghost
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Return]
+20130512|1900|||kosta||[KeyName:Return]
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L][KeyName:Alt_L]m
+20130512|1900|140690310934256|0x05a0006d|kosta|Enter Password|heaghs[KeyName:BackSpace]ost
+20130512|1900|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Return]
+20130512|1903|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L]m
+20130512|1903|38324416|0x05800017|kosta|Enter Password|heaghost[KeyName:Return]
+20130512|1903|gnome-terminal|0x04402af9|kosta|kosta@finn: ~|pkill py[KeyName:Tab][KeyName:Tab][KeyName:Tab][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace]ke[KeyName:Tab][KeyName:Tab][KeyName:Tab]y[KeyName:Tab][KeyName:Tab][KeyName:Tab][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace]
+20130512|1903|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Control_L]ccc[KeyName:Return]
+20130512|1908|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L]m
+20130512|1908|47565712|0x05a00017|kosta|Enter Password|heahgost[KeyName:Return]
+20130512|1908|||kosta||[KeyName:Return]
+20130512|1908|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L]m
+20130512|1908|47564128|0x05a00048|kosta|Enter Password|heaghost
+20130512|1908|||kosta||[KeyName:Return]
+20130512|1908|140362886920168|0x05a00217|kosta|General Settings|[KeyName:Alt_L][KeyName:Control_L][KeyName:Shift_R][KeyName:Shift_R]Shit[KeyName:BackSpace]ft[KeyName:Shift_R]_l[KeyName:BackSpace][KeyName:Shift_R]L,[KeyName:BackSpace];
+20130512|1909|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Shift_R][KeyName:Control_L][KeyName:Alt_L]M[KeyName:Control_L][KeyName:Alt_L][KeyName:Shift_R]MMM[KeyName:Control_L][KeyName:Alt_L][KeyName:Shift_R]M[KeyName:Control_L][KeyName:Alt_L][KeyName:Shift_R]M[KeyName:Shift_L]M
+20130512|1909|26465488|0x05a00017|kosta|Enter Password|Mheaghost
+20130512|1909|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Return]
+20130512|1909|tk|0x05a00026|kosta|PyKeylogger Control Panel|[KeyName:Alt_L][KeyName:Shift_L][KeyName:Control_L][KeyName:Shift_R]MMM
+20130512|1909|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L][KeyName:Shift_L]M
+20130512|1909|26465272|0x05a00059|kosta|Enter Password|heaghost
+20130512|1909||0x00c19143|kosta||[KeyName:Return]
+20130512|1909|140363289644712|0x05a00160|kosta|General Settings|[KeyName:BackSpace][KeyName:BackSpace][KeyName:Shift_R]Rl;[KeyName:BackSpace][KeyName:BackSpace];
+20130512|1909|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Shift_R][KeyName:Alt_L][KeyName:Control_L][KeyName:Shift_L]M[KeyName:Control_L][KeyName:Alt_L][KeyName:Shift_L][KeyName:Shift_R]Mh
+20130512|1909|40977328|0x05a00033|kosta|Enter Password|heaghost[KeyName:Return]
+20130512|1910|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L][KeyName:Shift_R]M
+20130512|1910|33355320|0x04200017|kosta|Enter Password|heaghost[KeyName:Return]
+20130512|1910|140094115782528|0x042000b9|kosta|General Settings|[KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:Right]
+20130512|1911|140094115782528|0x042000b9|kosta|General Settings|[KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:Right][KeyName:BackSpace][KeyName:Shift_R]L
+20130512|1911|gnome-terminal|0x04402065|kosta|kosta@finn: ~/Programming/pykeylogger-1.2.1|[KeyName:Alt_L][KeyName:Control_L]l
+20130512|1911|45798968|0x05a00017|kosta|Enter Password|heaghost[KeyName:Return]heaghost
+20130512|1911|||kosta||[KeyName:Return]
+20130512|1911|140289604018472|0x05a0010a|kosta|General Settings|[KeyName:BackSpace][KeyName:Alt_L][KeyName:Shift_R]F12[KeyName:Return]
+20130512|1914|gnome-terminal|0x04402065|kosta|kosta@finn: ~|a
+20130512|1914|gnome-control-center|0x04600003|kosta|Keyboard|ass
+20130512|1915|gnome-control-center|0x04600003|kosta|Keyboard|assd[KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace][KeyName:BackSpace]
+20130512|1915|chromium-browser|0x03c1def3|kosta|New Tab - Chromium|gm[KeyName:Return]
+20130512|1915|chromium-browser|0x03c1def3|kosta|Gmail: Email from Google - Chromium|kokoms[KeyName:BackSpace][KeyName:BackSpace]nstas[KeyName:Shift_R]@gmail.com[KeyName:Tab]nomegusa[KeyName:BackSpace]ta[KeyName:Return]
+20130512|1915|chromium-browser|0x03c1def3|kosta|Gmail - Chromium|[KeyName:Alt_L][KeyName:Tab]
+20130512|1915||0x0240000c|kosta|Switcher|[KeyName:Tab]
+20130512|1915|gnome-terminal|0x04402065|kosta|kosta@finn: ~|[KeyName:Control_L]c[KeyName:Up][KeyName:Return][KeyName:Control_L]c
+20130512|1915|chromium-browser|0x03c1def3|kosta|Inbox - kokonstas@gmail.com - Gmail - Chromium|[KeyName:Alt_L][KeyName:Tab]
+20130512|1915||0x0240000c|kosta|Switcher|[KeyName:Tab][KeyName:Tab]

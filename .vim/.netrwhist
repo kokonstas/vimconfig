@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/kosta/Programming/Ncurses'
+let g:netrw_dirhist_2='/home/kosta/Programming/Mom'
+let g:netrw_dirhist_3='/home/kosta/Programming'
+let g:netrw_dirhist_4='/mnt/90C85F61C85F449E/Users/Kosta/Desktop'
+let g:netrw_dirhist_5='/home/kosta/.vim'
+let g:netrw_dirhist_6='/var/spool/cron/crontabs'
+let g:netrw_dirhist_7='/etc/postfix/sasl'
